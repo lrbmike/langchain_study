@@ -1,15 +1,6 @@
 # langchain_study
 Langchain 学习手册
 
-## 环境配置
-项目 .env 文件配置
-```python
-#openai key
-OPENAI_API_KEY=....
-#openai请求域名(反代地址)
-OPENAI_API_BASE=....
-```
-
 ## 环境安装
 
 * 安装项目运行依赖组件包
